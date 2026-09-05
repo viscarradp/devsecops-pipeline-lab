@@ -1,3 +1,4 @@
+const apiKey = "sk_live_51Hxxxxxxxxxxxxxxxxxxxxxxxxx"; // secreto de prueba, se borra despues
 function calculateTotal(price, tax) {
   return price + tax;
 }
